@@ -17,7 +17,12 @@
     {
       "basePath": "dist",
       "files": [
-        "**/*"
+        "css/bootstrap-iconpicker.css",
+        "css/bootstrap-iconpicker.min.css",
+        "js/bootstrap-iconpicker.js",
+        "js/bootstrap-iconpicker.min.js",
+        "js/bootstrap-iconpicker-iconset-all.js",
+        "js/bootstrap-iconpicker-iconset-all.min.js"
       ]
     }
   ],
