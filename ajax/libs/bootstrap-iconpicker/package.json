@@ -11,19 +11,7 @@
     "css",
     "javascript",
     "jquery"
-  ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/victor-valencia/bootstrap-iconpicker.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  },
+  ],  
   "npmName": "bootstrap-iconpicker",
   "npmFileMap": [
     {
