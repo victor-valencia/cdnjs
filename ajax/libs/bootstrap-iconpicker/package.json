@@ -17,12 +17,6 @@
     "target": "git://github.com/victor-valencia/bootstrap-iconpicker.git",
     "fileMap": [
       {
-        "basePath": "bootstrap-iconpicker",
-        "files": [
-          "**/+(bootstrap-iconpicker|iconset-all)*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "**/*"
@@ -30,6 +24,15 @@
       }
     ]
   },
+  "npmName": "bootstrap-iconpicker",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/victor-valencia/bootstrap-iconpicker.git"
